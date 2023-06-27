@@ -33,15 +33,29 @@ main{
 
 .container_bar {
    background-color: white;
-   margin-top: 100px;
+   margin-top: 40px;
    margin-left: auto;
    margin-right: auto;
    height: 5vh;
-   width:90%;
+   width:70%;
    border-radius: 5px;
    padding-left: 6vh;
    padding-top: 1.5vh;
    
+}
+
+.container{
+    
+    background-color: white;
+    margin-top: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    height: 80vh;
+    width:70%;
+    border-radius: 5px;
+    padding-left: 6vh;
+    padding-top: 1.5vh;
 }
 
 .add_task{
@@ -66,19 +80,7 @@ main{
 
 }
 
-.container{
-    
-        background-color: white;
-        margin-top: 3px;
-        margin-left: auto;
-        margin-right: auto;
-        
-        height: 100vh;
-        width:90%;
-        border-radius: 5px;
-        padding-left: 6vh;
-        padding-top: 1.5vh;
-}
+
 
 h2{
     margin-bottom: 5px;
