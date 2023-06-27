@@ -104,3 +104,23 @@ p{
 .regular_task{
     margin-bottom: 2vh;
 }
+
+#violet{
+    background-color: #9c72e4;
+}
+
+#green{
+    background-color: #64c0a9;
+}
+
+#orange{
+    background-color: #f29e33;
+}
+
+#pink{
+    background-color: #d863a1;
+}
+
+#lightgreen{
+    background-color: #b0c926;
+}
