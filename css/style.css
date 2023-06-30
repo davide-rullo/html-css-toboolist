@@ -18,12 +18,14 @@ header{
 
 
 img{
+    height:100%;
     vertical-align: middle;
 }
 
 .logo h1{
     display: inline;
     color: black;
+    vertical-align: middle;
    
 }
 
@@ -125,4 +127,23 @@ p{
 
 #lightgreen{
     background-color: #b0c926;
+}
+
+.check {
+  display: inline-block;
+  line-height: 1rem;
+  width: 1rem;
+  text-align: center;
+  border-radius: 50%;
+  font-size: .7rem;
+}
+
+.done{
+    border: 1px solid #64c0a9;
+    color: #64c0a9;
+}
+
+.undone{
+    border: 1px solid red;
+    color: red;
 }
